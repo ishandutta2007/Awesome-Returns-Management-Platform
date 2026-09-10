@@ -70,54 +70,54 @@ The table below catalogs premier commercial returns management platforms, **sort
 
 Open-source tools provide extensible foundations for warehouse receiving, automated reverse-logistics orchestration, carrier label generation, and custom RMA workflows.
 
-The repositories below are **sorted in descending order by GitHub star counts**. Star badges beside each repository link directly to the repository's stargazers page:
+The repositories below are **sorted in descending order by GitHub star counts**. Stars_Badges beside each repository link directly to the repository's stargazers page:
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) ⚡  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) ⚡  
    *Fair-code workflow automation platform with native AI capabilities.* Widely utilized in e-commerce reverse logistics to automate return authorization triggers, orchestrate multi-system refunds, dispatch webhook notifications to ERPs, and interface with 3PL carrier APIs.
 
-2. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🏢  
+2. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🏢  
    *Extensible open-source enterprise management suite.* Features robust native RMA and reverse logistics modules that manage customer return receipts, automated credit notes, replacement deliveries, and warehouse return routing.
 
-3. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 📊  
+3. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 📊  
    *Full-featured open-source ERP framework built on Frappe.* Contains end-to-end sales return and purchase return modules, complete with warehouse inspection entries, scrap disposal tracking, and credit note automation.
 
-4. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) 🛍️  
+4. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) 🛍️  
    *Composable headless commerce platform for developers.* Offers advanced native RMA abstractions including multi-item return requests, exchange orders, swap logic, automated item claims, and return shipping label fulfillment hooks.
 
-5. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) 🛒  
+5. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) 🛒  
    *Laravel-powered open-source e-commerce platform.* Features modular Return Merchandise Authorization (RMA) extensions enabling self-service customer portal submissions, return status lifecycles, and consignment consignment tracking.
 
-6. **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) 🚀  
+6. **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) 🚀  
    *High-performance, GraphQL-first headless commerce engine.* Provides granular order return mutations, partial return handling, line-item refund calculations, and automated inventory restocking hooks.
 
-7. **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) 📦  
+7. **[Spree Commerce](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) 📦  
    *Battle-tested Ruby on Rails e-commerce framework.* Provides built-in Customer Return and Return Authorization (RMA) engines, reimbursement calculations, and warehouse inventory restock configurations.
 
-8. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) 🏷️  
+8. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) 🏷️  
    *Open-source asset and inventory tracking system.* Frequently deployed in hardware reverse supply chains for returned item check-in, refurbishment grading, serialized audit trails, and warranty disposition.
 
-9. **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) 🌐  
+9. **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) 🌐  
    *World's most popular open-source e-commerce engine.* Supports return and refund state workflows, tax/shipping recalculations, restock automation, and hundreds of community RMA and return portal extensions.
 
-10. **[Sylius](https://github.com/Sylius/Sylius)** [![GitHub stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers) ⚙️  
+10. **[Sylius](https://github.com/Sylius/Sylius)** [![GitHub_Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers) ⚙️  
     *Symfony-based modular PHP commerce platform.* Ships with an enterprise-grade Order Returns module featuring step-by-step return requests, customer notifications, and automated credit slip generation.
 
-11. **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) 🌿  
+11. **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub_Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) 🌿  
     *Modern TypeScript & NestJS headless commerce framework.* Features a flexible Order Modification and Return API designed to process item refunds, return line items, and custom reverse logistics state machines.
 
-12. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers) 📋  
+12. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers) 📋  
     *Lightweight Python/Django inventory and warehouse management system.* Features native Return Order tracking, incoming reverse-logistics stock quarantine, testing status workflows, and repair item tracing.
 
-13. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) 💎  
+13. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) 💎  
     *Community-driven, high-volume Rails commerce framework.* Contains comprehensive Return Authorization (RMA) workflows, customer return receipts, restocking fee calculation, and reimbursement reconciliation.
 
-14. **[Apache OFBiz](https://github.com/apache/ofbiz)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz?style=social&color=white)](https://github.com/apache/ofbiz/stargazers) 🏛️  
+14. **[Apache OFBiz](https://github.com/apache/ofbiz)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz?style=social&color=white)](https://github.com/apache/ofbiz/stargazers) 🏛️  
     *Enterprise open-source ERP and supply chain framework.* Incorporates complete enterprise RMA processes, multi-facility return inspection, repair tracking, and automated financial credit adjustments.
 
-15. **[Karrio](https://github.com/karrioapi/karrio)** [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers) 🚚  
+15. **[Karrio](https://github.com/karrioapi/karrio)** [![GitHub_Stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers) 🚚  
     *Open-source, self-hostable multi-carrier shipping API.* Simplifies reverse logistics by generating return shipping labels, QR code drop-off vouchers, and reverse manifest tracking across 100+ global couriers (FedEx, UPS, DHL, USPS, Canada Post).
 
-16. **[OpenReturn](https://github.com/OpenReturn/openreturn)** [![GitHub stars](https://img.shields.io/github/stars/OpenReturn/openreturn?style=social&color=white)](https://github.com/OpenReturn/openreturn/stargazers) 🔓  
+16. **[OpenReturn](https://github.com/OpenReturn/openreturn)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenReturn/openreturn?style=social&color=white)](https://github.com/OpenReturn/openreturn/stargazers) 🔓  
     *Open protocol and reference implementation for the e-commerce return and exchange lifecycle.* Defines a machine-readable standard, self-hostable return portal, and carrier adapters to prevent vendor lock-in.
 
 ---
@@ -166,7 +166,7 @@ Contributions are warmly welcomed from e-commerce developers, logistics speciali
 1. Fork the repository.
 2. Add your platform or open-source tool following the existing tabular and badge formats.
 3. Make sure SaaS submissions include verified starting tier pricing, free tier limits, and company valuation/revenue data.
-4. For open-source tools, include the standard social star badge (`style=social&color=white`).
+4. For open-source tools, include the standard social Stars_Badge (`style=social&color=white`).
 5. Check our general contribution guidelines at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 6. Submit a descriptive Pull Request.
 
